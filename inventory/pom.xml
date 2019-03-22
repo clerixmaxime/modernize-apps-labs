@@ -25,7 +25,7 @@
     <packaging>war</packaging>
 
     <name>Inventory Microservice</name>
-    <description>WildFly Swarm : REST - JDBC - Inventory Service</description>
+    <description>Thorntail : REST - JDBC - Inventory Service</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
